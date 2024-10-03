@@ -12,4 +12,6 @@ mitmerealine
 kommentaar
 */
 
+# veel üks võimalus kommenteerida
+
 ?>
