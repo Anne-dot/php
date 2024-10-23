@@ -1,2 +1,25 @@
 ülesannete tekstid:
 https://docs.google.com/document/d/18NT0gECmqETswmDDdHCefzlXbeECH6bgA73rvmyQP84/edit
+
+tulemüür ja kliendi suhtlemine serveriga
+portide avamine ja sulgemine
+localisse teenuse installimisel portide avamine.
+
+php artisan serve - valib ise porti
+php -S localhost:8000
+arenduseks valime porte 
+security by obscurity - turvalisuse saavutamiseks
+kasutame mitte 20 vaid 2020 - vanasti võis olla turvalisem, aga tänapäeval
+on port scannerid ja see ei lisa turvalisust.
+
+arendamisel kasutame mingit teist porti, nt 80 asemel 8080
+
+
+Inspect > Network > kliki failile > Payload
+
+*** https://phpdelusions.net/pdo - kodus läbi töötada
+
+OOP
+klass - kirjeldame meetodid ja properties; vastavalt andmebaasi tabelile
+pdo objekti kaudu teeme klassi
+*** Uuri PDO kohta ise edasi!
