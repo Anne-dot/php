@@ -1,9 +1,9 @@
 <?php
 
-$host = '127.0.0.1';
-$db   = 'test';
-$user = 'root';
-$pass = '';
+$host = 'd123460.mysql.zonevs.eu';
+$db   = 'd123460_booksdbandrusen2idis';
+$user = 'd123460_kasutaja';
+$pass = 'T3re_raamatupood';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";

@@ -23,3 +23,7 @@ OOP
 klass - kirjeldame meetodid ja properties; vastavalt andmebaasi tabelile
 pdo objekti kaudu teeme klassi
 *** Uuri PDO kohta ise edasi!
+
+***Vaata beaver andmebaasi haldajat
+
+*** vaata kohaliku andmebaasi ja veebi andmebaasi kasutamine 
