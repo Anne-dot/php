@@ -27,3 +27,29 @@ pdo objekti kaudu teeme klassi
 ***Vaata beaver andmebaasi haldajat
 
 *** vaata kohaliku andmebaasi ja veebi andmebaasi kasutamine 
+
+mvc
+kontroller suhtleb andmebaasi ja view'ga
+
+html koodi ei väljastata echoga tavaliselt 
+
+list on klikitav ja viib lehele book.html?id=19
+
+enne githubi üles panemist:
+teha .env file või config.php fail
+
+
+meie tegime:
+* yhenduse andmed kopeerisime config.php faili ja kustutasime oma connection.php failist
+* gitignori lisasime config.php
+* tegime default.config.php / sealt saab projekti kopeerides struktuuri
+
+KODUToo:
+
+teha book view valmis ja disainida
+
+teha edit view / edit.php, kus edit on input 
+teha delete - soft delete - is deleted veerg tabelile juurde
+autori sisestamine
+otsing avalehele
+autori muutmine / raamatult autori 
